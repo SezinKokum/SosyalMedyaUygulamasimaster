@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btnArama"
+    android:icon="@drawable/arama"
+    android:title="@string/arama"
+    app:showAsAction="always"/>
+
+    <item
+        android:icon="@drawable/editprofil"
+        android:id="@+id/btnProfilDuzenle"
+        android:title="@string/profildüzenle"
+        app:showAsAction="always"/>
+
+</menu>
+  <!--destekleme kütüphanesi için app kullandım-->
+  <!--always seçerek hep görünür yaptım
+  app compat kütüphanesi android tagını desteklemiyor
+  o yüzden yeni bir xmlns yarattım app e bağladım-->

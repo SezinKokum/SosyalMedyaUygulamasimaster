@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SosyalMedyaUygulamasi</string>
+    <string name="pick_date" />
+    <string name="action_settings">Settings</string>
+    <string name="record">Kayıt</string>
+    <string name="stop">Durdur</string>
+    <string name="arama">Arama</string>
+    <string name="profildüzenle">Profil Düzenle</string>
+</resources>
